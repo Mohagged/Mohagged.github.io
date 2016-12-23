@@ -4,8 +4,21 @@
     url('Digitall.eot'); /* IE */
 }
 
-h1,h2{
+.inv{
+	opacity: 0;
+}
+
+.digi{
 	font-family: "Digitall";
+	text-align: center;
+}
+
+h1 {
+	font-size: 600%;
+}
+
+h2 {
+	font-size: 400%;
 }
 
 body{
@@ -22,6 +35,7 @@ iframe {
 
 p {
 	font-family: "Lucida Sans Unicode", sans-serif;
+	font-size: 300%;
 }
 
 a{
