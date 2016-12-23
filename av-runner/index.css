@@ -1,0 +1,44 @@
+body{
+	font-family: "Courier New";
+	line-height:1.5em;
+	max-width:69%;
+	padding:0 2%;
+	margin:auto;
+}
+
+iframe {
+	width: 100%;
+}
+
+p {
+	font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover {
+	color:white;
+	background-color: black;
+}
+
+.contact {
+	text-align: left;
+}
+
+.contact ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.contact li {
+	display: inline;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
+
+footer {
+	margin-bottom: 4%;
+}
