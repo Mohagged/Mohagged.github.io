@@ -4,6 +4,13 @@
     url('Digitall.eot'); /* IE */
 }
 
+@font-face{
+    font-family: "RacingSansOne";
+    src: url('RacingSansOne-Regular.ttf'),
+    url('RacingSansOne-Regular.eot'); /* IE */
+}
+
+
 body{
 	font-family: "Courier New";
 	line-height:1.5em;
