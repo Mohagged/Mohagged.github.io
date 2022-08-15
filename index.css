@@ -5,6 +5,12 @@
 }
 
 @font-face{
+    font-family: "Game Of Squids";
+    src: url('Game Of Squids.ttf'),
+    url('Game Of Squids.eot'); /* IE */
+}
+
+@font-face{
     font-family: "RacingSansOne";
     src: url('RacingSansOne-Regular.ttf'),
     url('RacingSansOne-Regular.eot'); /* IE */
